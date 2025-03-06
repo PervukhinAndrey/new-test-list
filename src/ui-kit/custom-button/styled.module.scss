@@ -1,0 +1,24 @@
+.buttonContainer {
+    width: 95px;
+    height: 30px;
+    border-radius: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 12px;
+  
+    color: #ffffff;
+
+    cursor:pointer;
+}
+
+.primaryButton {
+    background-color: #2EE5AC;
+}
+.secondaryButton{
+    background-color: #7d7d7d;
+    font-weight: 500;
+}  
